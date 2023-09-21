@@ -2,7 +2,7 @@ const dict = {
   "Satyam": "15 Mar 2023",
   "Rupam": "17 Sept 2023",
   "Madhurima": "5 Sept 2023",
-  "Nishita":"10 Aug 2024"
+  "Digvijay Singh" : "3 Dec 2023"
 };
 
 function convertToKeyValuePairs(dictionary) {
